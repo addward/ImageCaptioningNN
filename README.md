@@ -32,7 +32,7 @@ Greedy sentence:
 
 * a group of people playing a game of soccer .
 
-Sampling (Choose words using the probablity distribution from the NN):
+Sampling :
 
 * a group of people playing a game of soccer .
 * a group of people playing a game of tennis .
@@ -49,9 +49,11 @@ Sampling (Choose words using the probablity distribution from the NN):
 <img src="https://github.com/addward/ImageCaptioningNN/blob/main/img_examples/cycler.jpg" alt="drawing" width="300"/>
 Greedy sentence :
 
-* a man riding a bike down a street .
+* a man riding a bike down a street .<br>
+attention weights:
+<img src="https://github.com/addward/ImageCaptioningNN/blob/main/img_examples/att_cyclist.png" alt="drawing" width="300"/>
 
-Sampling (Choose words using the probablity distribution from the NN):
+Sampling :
 
 * a man riding a bike down a street .
 * a man riding a bike down a street .
@@ -63,9 +65,11 @@ Sampling (Choose words using the probablity distribution from the NN):
 <img src="https://github.com/addward/ImageCaptioningNN/blob/main/img_examples/cat_dog.jpg" alt="drawing" width="300"/>
 Greedy sentence :
 
-* a cat is sitting on a couch .
+* a cat is sitting on a couch .<br>
+attention weights:
+<img src="https://github.com/addward/ImageCaptioningNN/blob/main/img_examples/att_cat_dog.png" alt="drawing" width="300"/>
 
-Sampling (Choose words using the probablity distribution from the NN):
+Sampling :
 
 * a black and white cat sitting on a table
 * a black and white cat is next to a white cat .
